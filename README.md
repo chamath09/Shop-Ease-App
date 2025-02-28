@@ -131,12 +131,6 @@ Contributions are welcome! Follow these steps:
 
 ---
 
-## 🛡️ License  
-
-This project is licensed under the **MIT License**. See the LICENSE file for details.  
-
----
-
 ## 📧 Contact  
 
 Feel free to reach out for any questions or feedback!  
